@@ -1,0 +1,10 @@
+cd C:\Users\shilpa thakur\Downloads\AI_College_Placement_Prediction_BCA_Capstone
+venv\Scripts\activate
+pip install -r requirements.txt
+python train_model.py
+python app.py
+
+
+
+type this link in chrome to open website
+http://127.0.0.1:5000
