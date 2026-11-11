@@ -1,5 +1,58 @@
 # AI-Based College Placement Prediction System
 
+## Project Overview
+This project is an Artificial Intelligence and Machine Learning based College Placement Prediction System developed as a BCA Capstone Project.
+
+The system uses student academic and other relevant information to predict placement outcomes using machine learning techniques.
+
+## Objectives
+- Predict student placement outcomes.
+- Apply machine learning to educational data.
+- Provide an easy-to-use web application.
+- Help students understand factors related to placement opportunities.
+
+## Technologies Used
+- Python
+- Machine Learning
+- Flask (if used in the application)
+- HTML, CSS
+- Pandas
+- NumPy
+- Scikit-learn
+
+## Dataset
+The project uses a student placement dataset for model training and testing.
+
+**Dataset location:** See the dataset folder in this repository.
+
+## Project Structure
+The repository contains the application source code, dataset, machine learning model files, templates, static resources and project documentation.
+
+## How to Run
+1. Install Python.
+2. Install the required libraries using:
+
+   `pip install -r requirements.txt`
+
+3. Run the application using:
+
+   `python app.py`
+
+4. Open the local URL displayed in the terminal.
+
+## Student Details
+- **Student Name:** Mohit Kumar Thakur
+- **Student ID:** 24BCAHH010008
+- **Programme:** BCA
+- **Institution:** ICFAI Tech
+
+## Project Guide
+Dr. Banoth Seetha Ramulu
+
+## Disclaimer
+This application is intended for academic and educational purposes. Predictions are estimates and should not be treated as guarantees of employment or placement.
+# AI-Based College Placement Prediction System
+
 BCA Capstone Project
 
 ## Overview
